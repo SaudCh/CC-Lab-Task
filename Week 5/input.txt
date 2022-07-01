@@ -1,0 +1,7 @@
+// Hello 
+int main ( ) {
+/* saaea dadajs */ 
+	int a , b ;
+	a = 10;
+	b = a + 5;
+}

@@ -1,0 +1,5 @@
+int num2 ;
+// this is a comment
+num2 = 1 + 2 ;
+if ( num2 == 4 )
+    printf ( " Hello " ) ;
